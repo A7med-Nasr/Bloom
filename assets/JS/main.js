@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){function e(){window.innerWidth<=768&&(AOS.refresh(),document.querySelectorAll("[data-aos]").forEach(e=>{e.removeAttribute("data-aos")}))}e(),window.addEventListener("resize",e)});
